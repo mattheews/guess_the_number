@@ -57,8 +57,3 @@ while not end_of_game:
   end_of_guessing = False
   if try_again == "n":
     end_of_game = True
-
-
-
-
-v
